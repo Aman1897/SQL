@@ -1,4 +1,4 @@
-#Classicmodels
+**#Classicmodels**
 Overview
 This repository contains a collection of SQL queries for practicing and learning SQL using the famous "classicmodels" sample database. The classicmodels database is a fictional database often used for demonstrating SQL queries, relational database concepts, and more. It contains data related to a company's customers, orders, products, and employees.
 
